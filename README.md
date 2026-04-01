@@ -83,12 +83,14 @@ Secure Login System
 
 ## 📸 Screenshots
 <pre>
-🔹 1. Home Page (Live Score Page)
+🔹 1. Home Page (Audience Login)
 
 Description:
-This page displays live cricket scores using the API. Users can view match scores without logging in.
+The Home Page allows users to log in using email and password, view live scores, register a new account, 
+and reset their password using the forgot password option.
 
-👉 (Insert Screenshot Here)
+<img width="1920" height="883" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/9a698947-055a-430f-9bd4-ea14d010a82b" />
+
 
 🔹 2. User Registration Page
 
