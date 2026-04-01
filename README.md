@@ -3,15 +3,23 @@
 ## 📌 Introduction
 <pre>
 Cricket is one of the most popular sports in the world, and millions of people want to stay updated with live match scores. 
-However, not everyone has access to live television or paid streaming services. To solve this problem, the Online Cricket 
-Live Score Web Application was developed.
+However, not everyone has access to live television or paid streaming services. To solve this problem, the Online Cricket Live 
+Score Web Application was developed.
 
 This project is a web application that provides live cricket scores using an API. The system allows users to view live scores 
-without logging in. However, to access additional features like match highlights, match history, and future match schedules, 
-users must register and log in.
+without logging in. However, to access additional features like match highlights, match history, future match schedules, and 
+personalized content, users must register and log in.
 
-The system has two main users: Audience and Admin. The Admin manages match details, while the Audience can view match information. 
-The system also includes a password reset feature using email.
+The system has two main types of users: Audience and Admin.
+
+Admin: Manages match details, upcoming matches, and other system data.
+Audience: Can view match information, scores, and access additional features after logging in.
+
+Additional features include:
+
+Password reset via email for secure account recovery
+Advertisements displayed on the dashboard for users.
+
 </pre>
 
 ----
