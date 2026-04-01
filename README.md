@@ -104,7 +104,7 @@ New users can create an account by entering their Name, Email, Mobile, Password 
 
 Description:
 After registration, the audience can log in by entering their email and password 
-<img width="935" height="539" alt="Screenshot (478)" src="https://github.com/user-attachments/assets/5d4b7552-c725-41b7-aac3-7ee9772cb88f" />
+<img width="1920" height="883" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/9a698947-055a-430f-9bd4-ea14d010a82b" />
 
 
 🔹 4. Dashboard (After Login)
