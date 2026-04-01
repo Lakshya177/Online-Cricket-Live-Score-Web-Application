@@ -29,8 +29,8 @@ To build a web application using Servlet and JSP.
 
 -----
 
-##🛠️ Technologies Used
-
+## 🛠️ Technologies Used
+<pre>
 | Category     | Technology             |
 |              |                        |
 | Frontend     | HTML, CSS, JavaScript  |
@@ -40,4 +40,7 @@ To build a web application using Servlet and JSP.
 | API          | Live Cricket Score API |
 | Email        | JavaMail API           |
 | Server       | Apache Tomcat          |
+</pre>
+
+----
 
