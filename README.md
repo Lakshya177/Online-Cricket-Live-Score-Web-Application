@@ -148,11 +148,11 @@ Admin adds new match details such as teams, date, and highlights.
 
 ## 📌 Conclusion
 <pre>
-The Online Cricket Live Score Web Application is a useful platform for cricket fans who want to stay updated with 
-live match scores without paid subscriptions. The system provides live scores, match history, highlights, and future
-match details. The admin panel helps manage match information efficiently. The email password reset feature improves 
-the security of the system. Overall, the project demonstrates the use of web technologies like HTML, CSS, JavaScript, 
-Servlet, JSP, MySQL, and API integration to build a real-world web application.
+The Online Cricket Live Score Web Application is a useful platform for cricket fans who want to stay updated with live match 
+scores without paid subscriptions. The system provides live scores, match history, highlights, and futurematch details. The admin 
+panel helps manage match information efficiently. The email password reset feature improves the security of the system. Overall, 
+the project demonstrates the use of web technologies like HTML, CSS, JavaScript, Servlet, JSP, MySQL, and API integration to build 
+a real-world web application.
 </pre>
 
 ## 👨‍💻 Author
