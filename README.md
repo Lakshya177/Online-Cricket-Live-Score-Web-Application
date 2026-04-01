@@ -136,6 +136,7 @@ The Upcoming Matches page shows the list of upcoming matches and their details f
 
 
 ## 🔹 8. History of Matches
+<pre>
 Description:
 The History of Matches page displays the details and highlights of previously played matches.
 <pre>
