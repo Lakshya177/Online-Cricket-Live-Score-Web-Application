@@ -168,18 +168,23 @@ Main control panel for the admin to manage users  Add Future Matches, View Futur
 <img width="1920" height="444" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/e0aef4e3-d456-43e1-b91d-22a939b12fb0" />
 
 a) Add Future Matches
+
 <img width="1920" height="444" alt="Screenshot (490)" src="https://github.com/user-attachments/assets/82c14388-24cb-4bbd-8e08-540c3969f99b" />
 
 b)View Future Matches
+
 <img width="1906" height="444" alt="Screenshot (491)" src="https://github.com/user-attachments/assets/8d905f8e-bdf1-40a2-bf08-480a9e6086cd" />
 
 c)Add Match History
+
 <img width="1920" height="444" alt="Screenshot (493)" src="https://github.com/user-attachments/assets/7b0f566e-dbf4-40c4-b4c0-125638933e30" />
 
 d)History Matches List
+
 <img width="1920" height="444" alt="Screenshot (494)" src="https://github.com/user-attachments/assets/176fffd2-1d2a-4339-96d1-c86047535d17" />
 
 e)Advertisement
+
 <img width="1920" height="444" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/61e6e170-cb7f-4f02-93ba-a7b59635cfe1" />
 
 ----
