@@ -119,24 +119,106 @@ Form cannot submit if passwords do not match.
 ##  📂 Project Structure
 <pre>
 AdminControl
-├── WebPages                # HTML, JSP, CSS, JS files
-|   ├─ META-INF             # Metadata for the project
-|   └── WEB-INF             # Web configuration files
+├── WebPages                
+|   ├─ META-INF             
+|   └── WEB-INF             
 │       ├── Admin.html
 │       └── index.html
 │
-├── Source Packages            # Java source files
-│    └── Default Package       # or your named package
+├── Source Packages           
+│    └── Default Package       
 │          ├── Mailer.java
 │          └── SendMail.java
 │
-├── Test Package                 # Test package      
-├── Libraries                    # Project libraries
-├── Test-libraries               # Libraries for testing
-└── Configuration-files          # Extra config files
+├── Test Package                      
+├── Libraries                   
+├── Test-libraries              
+└── Configuration-files         
     ├── MANIFEST.MF
     ├── context.xml
     └── web-fragment.xml
+</pre>
+
+<pre>
+Audience Page
+ ├── WebPages
+ │        ├──JavaScript
+ │        |     └──one.js
+ |        |
+ │        ├──META-INF
+ │        ├──WEB-INF
+ │        ├──Image
+ |        |    ├─Background.jpg
+ |        |    ├─delete.png
+ |        |    └──edit.png
+ |        |
+ |        ├─Check_admin_login.jsp
+ |        ├─Delete_Future_Match
+ |        ├─EditHistory.jsp
+ |        ├─Edit_Future_Match.jsp
+ |        ├─FutureMatches.html
+ |        ├─History_Match.html
+ |        ├─Home2.html
+ |        ├─InsertHistoryMatch.jsp
+ |        ├─Login.html
+ |        ├─LoginError.html
+ |        ├─Logout.html
+ |        ├─Registers.html
+ |        ├─Registers2.html
+ |        ├─ShowHistoryMatches.jsp
+ |        ├─ShowHistoryMatches2.jsp
+ |        ├─Show_Future_Matches.jsp
+ |        ├─Update.html
+ |        ├─Update.jsp
+ |        ├─Update_Future_Match.jsp
+ |        ├─Video.jsp
+ |        ├─add_advertisement.html
+ |        ├─admin_home.jsp
+ |        ├─admin_login.jsp
+ |        ├─audience_upcoming_matches.jsp
+ |        ├─delte.jsp
+ |        ├─edit.jsp
+ |        ├─fetch.jsp
+ |        ├─forget.html
+ |        ├─index.html
+ |        ├─logout.jsp
+ |        └──register.html
+ |
+ ├──Source Package
+ |         └── Default Package   
+ |               ├─ChecKLogin.java
+ |               ├─DeleteHistoryServlet.java
+ |               ├─FutureMatch.java
+ |               ├─Home.java
+ |               ├─LiveScoreServlet.java
+ |               ├─Logout.java
+ |               ├─Mailer.java
+ |               ├─Profile.java
+ |               ├─Register.java
+ |               ├─SendMail.java
+ |               ├─Update.java
+ |               ├─UpdateHistoryServlet.java
+ |               ├─UpdatePassword.java
+ |               ├─UpdateServlet.java
+ |               └── Update.java
+ |
+ ├─Test Packages        
+ ├─Libraries
+ |      ├─activation.jar
+ |      ├─httpclient.jar
+ |      ├─httpcore.jar
+ |      ├─slf4j-api.jar
+ |      ├─mail.jar
+ |      ├─json.jar
+ |      ├─mysql-connector.jar
+ |      ├─JDK
+ |      └──Apache Tomacat
+ |
+ ├─Test Libraries
+ └──Configuration Files
+          ├── MANIFEST.MF
+          ├── context.xml
+          └── web-fragment.xml
 </pre>
 
 -----
