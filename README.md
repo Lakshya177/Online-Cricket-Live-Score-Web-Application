@@ -105,7 +105,7 @@ New users can create an account by entering their Name, Email, Mobile, Password 
 Description:
 After registration, the audience can log in by entering their email and password 
 
-<img width="1920" height="883" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/9a698947-055a-430f-9bd4-ea14d010a82b" />
+<img width="1920" height="868" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/d4ca40f4-b379-4f04-a296-590d4191e3f4" />
 
 
 ## 🔹 4. Advertisement Page
@@ -115,12 +115,13 @@ After login, an advertisement page is displayed before accessing the user dashbo
 <img width="1891" height="875" alt="Screenshot (479)" src="https://github.com/user-attachments/assets/f2484e9e-4883-4ff1-a4f5-3e11163e0e4d" />
 
 
-  🔹 5. Match History Page/Dashboard (After Login)
+🔹 5. Dashboard (Audience page)
 
 Description:
-Displays details of previously played matches along with highlights.
+The Dashboard provides options such as Home, Upcoming Matches, Match History, Profile, and Logout for the users.
 
-👉 (Insert Screenshot Here)
+<img width="1920" height="876" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/ea0e6f92-921a-40c7-8128-0d16f39e77d0" />
+
 
 🔹 6. Future Matches Page
 
