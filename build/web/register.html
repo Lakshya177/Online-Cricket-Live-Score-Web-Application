@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Audience Registration</title>
+        <meta charset="UTF-8">
+
+        <style>
+            body {
+                height: 100vh;
+                margin: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-family: Arial, sans-serif;
+                background: linear-gradient(135deg, #0f172a, #1e293b);
+            }
+
+            /* FORM DESIGN */
+            .reg-box {
+                width: 360px;
+                padding: 28px;
+                background: rgba(255, 255, 255, 0.95);
+                border-radius: 15px;
+                box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+            }
+
+            .reg-box h2 {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+            .reg-box input {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 12px;
+                border: 1px solid #ccc;
+                border-radius: 25px;
+                outline: none;
+                transition: 0.3s;
+            }
+
+            .reg-box input:focus {
+                border-color: #007bff;
+                box-shadow: 0 0 8px rgba(0, 123, 255, 0.4);
+                transform: scale(1.02);
+            }
+
+            .reg-box input[type=submit] {
+                background: #007bff;
+                color: white;
+                border: none;
+                cursor: pointer;
+                font-size: 14px;
+                transition: 0.3s;
+            }
+
+            .reg-box input[type=submit]:hover {
+                background: #0056b3;
+                transform: translateY(-2px);
+            }
+
+            #one {
+                font-size: 12px;
+                color: red;
+                display: block;
+                margin-bottom: 8px;
+            }
+
+            .get-btn {
+                text-decoration: none;
+                background: #28a745;
+                color: white;
+                padding: 8px 20px;
+                border-radius: 20px;
+                transition: 0.3s;
+            }
+
+            .get-btn:hover {
+                background: #218838;
+                box-shadow: 0 0 10px #28a745;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <form action="Register" method="post" class="reg-box" onsubmit="return valid()">
+            <h2>Audience Registration</h2>
+
+            <input type="text" name="name" placeholder="Enter Name" required>
+            <input type="email" name="mail" placeholder="Enter Email" required>
+            <input type="text" name="mob"   pattern="[6,7,8,9][0-9]{9}" placeholder="Enter Mobile" required>
+            <input type="password" id="pwd1" name="pwd" placeholder="Enter Password" required>
+            <input type="password" id="pwd2" placeholder="Confirm Password" required>
+            <span id="one"></span>
+
+            <br><br>
+            <input type="submit" value="Register">
+
+            <br><br>
+            <!--<div style="text-align:center; margin-top:10px;">
+                <a href="fetch.jsp" class="get-btn">View Registrations</a>
+            </div>-->
+        </form>
+
+        <script src="Js/one.js"></script>
+    </body>
+</html>
+

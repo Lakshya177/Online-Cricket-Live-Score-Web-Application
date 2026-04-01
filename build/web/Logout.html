@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Logged Out</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background: #f2f2f2;
+                font-family: Arial, sans-serif;
+                position: relative; /* Needed for absolute positioning of top-right link */
+            }
+
+            /* Top-right Home button */
+            .top-right {
+                position: absolute;
+                top: 20px;
+                right: 20px;
+                text-decoration: none;
+                color: white;
+                background: #3498db;
+                padding: 10px 20px;
+                border-radius: 5px;
+            }
+
+            .top-right:hover {
+                background: #2980b9;
+            }
+
+            /* Centered message box */
+            .message-box {
+                padding: 30px 40px;
+                text-align: center;
+            }
+
+            .message-box h2 {
+                color: #e74c3c;
+                margin-bottom: 20px;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <!-- Home button at top-right -->
+        <a href="index.html" class="top-right">Home</a>
+
+        <!-- Centered message -->
+        <div class="message-box">
+            <h2>You have successfully logged out</h2>
+        </div>
+
+    </body>
+</html>

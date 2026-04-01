@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>History Match</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background: linear-gradient(120deg, #1e3c72, #2a5298);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                min-height: 100vh;
+            }
+
+            .container {
+                background: white;
+                padding: 25px;
+                border-radius: 10px;
+                box-shadow: 0px 0px 15px rgba(0,0,0,0.3);
+                width: 420px;
+                text-align: center;
+            }
+
+            h2 {
+                color: #1e3c72;
+            }
+
+            label {
+                font-weight: bold;
+                display: block;
+                margin-top: 8px;
+            }
+
+            .input-box {
+                width: 100%;
+                padding: 8px;
+                margin-top: 5px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+            }
+
+            .btn {
+                width: 100%;
+                padding: 10px;
+                margin-top: 15px;
+                background: #1e3c72;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+
+            .link {
+                display: inline-block;
+                margin-top: 15px;
+                color: #1e3c72;
+                text-decoration: none;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+
+        <div class="container">
+            <h2>Enter Match History</h2>
+
+            <form action="InsertHistoryMatch.jsp" method="post">
+
+                <label>Match Date:</label>
+                <input class="input-box" type="date" name="matchDate" required>
+
+                <label>Team 1:</label>
+                <input class="input-box" type="text" name="team1" required>
+
+                <label>Team 2:</label>
+                <input class="input-box" type="text" name="team2" required>
+
+                <label>Winning Team:</label>
+                <input class="input-box" type="text" name="winningTeam" required>
+
+                <label>Highest Score:</label>
+                <input class="input-box" type="number" name="highestScore" required>
+
+                <label>Highest Wicket:</label>
+                <input class="input-box" type="number" name="highestWicket" required>
+
+                <label>Highest Score Player Name:</label>
+                <input class="input-box" type="text" name="hsPlayer" required>
+
+                <label>Highest Wicket Player Name:</label>
+                <input class="input-box" type="text" name="hwPlayer" required>
+
+                <label>Man of the Match:</label>
+                <input class="input-box" type="text" name="manOfMatch" required>
+
+                <input class="btn" type="submit" value="Submit">
+
+            </form>
+        </div>
+
+    </body>
+</html>
