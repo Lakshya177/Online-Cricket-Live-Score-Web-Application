@@ -26,13 +26,14 @@ Advertisements displayed on the dashboard for users.
 
 ## 🎯 Objectives
 <pre>
-To provide live cricket scores using API.
+To provide live cricket scores using an API.
 To allow users to view match highlights and match history.
 To provide future match schedules.
-To implement user registration and login system.
-To implement admin panel for managing match data.
-To implement email sending feature for password reset.
-To build a web application using Servlet and JSP.
+To implement a user registration and login system.
+To implement an admin panel for managing match data.
+To implement an email feature for password reset.
+To display Advertisements within the application.
+To build a web application using Servlets and JSP.
 </pre>
 
 -----
@@ -62,6 +63,7 @@ View Match Highlights
 View Match History
 View Future Matches
 Forgot Password (Email Reset)
+View Advertisements
   
 2. Admin Module
 Admin Login
@@ -70,22 +72,49 @@ Edit Match Details
 Delete Match Details
 Manage Match History
 Manage Highlights
-
+Manage Advertisements
 </pre>
 
 -----
 
 ## 🔐 Features
 <pre>
-Live Score API Integration
-User Registration & Login
-Admin Panel
-Match History
-Future Match Schedule
-Highlights Details
-Email Password Reset
-Future Matches show 
-Secure Login System
+Live Score API Integration – View real-time cricket scores.
+User Registration & Login – Secure authentication for users.
+Admin Panel – Manage matches, highlights, and advertisements.
+Match History – Access past match details and statistics.
+Future Match Schedule – View upcoming matches.
+Highlights Details – Watch match highlights.
+Email Password Reset – Recover account securely via email.
+Future Matches Display – Show upcoming matches on the dashboard.
+Secure Login System – Protect user and admin accounts.
+Advertisements – Display ads for additional content and revenue.
+</pre>
+
+-----
+
+## Project Structure
+<pre>
+AdminControl
+├── WebPages                # HTML, JSP, CSS, JS files
+|   ├─ META-INF             # Metadata for the project
+|   └── WEB-INF             # Web configuration files
+│       ├── Admin.html
+│       └── index.html
+│
+├── Source Packages            # Java source files
+│    └── <default Package>     # or your named package
+│          ├── Mailer.java
+│          └── SendMail.java
+│
+├── Test Package             # Test package      
+├── Libraries                # Project libraries
+├── Test-libraries           # Libraries for testing
+└── Configuration-files      # Extra config files
+    ├── context.xml
+    ├── context.xml
+    ├── web-fragment.xml
+    └── web-fragment.xml
 </pre>
 
 -----
