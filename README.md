@@ -95,9 +95,10 @@ and reset their password using the forgot password option.
 🔹 2. User Registration Page
 
 Description:
-New users can create an account by entering their name, email, and password.
+New users can create an account by entering their Name, Email, Mobile, Password and  Confirm Password.
 
-👉 (Insert Screenshot Here)
+<img width="1920" height="869" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/e990bdde-c485-4129-932f-b5a6e444444d" />
+
 
 🔹 3. User Login Page
 
