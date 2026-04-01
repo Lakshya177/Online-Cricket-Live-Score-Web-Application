@@ -155,7 +155,24 @@ Users can reset their password using an email link by entering Email, Password, 
 Description:
 The Live Score page displays real-time cricket scores and match details using the Live Cricket API.
 
-<img width="1887" height="866" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/560ef54e-fcbb-4546-9e76-89134b289e18" />
+<img width="1887" height="444" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/560ef54e-fcbb-4546-9e76-89134b289e18" />
+
+## 🔹 10. Admin Login 
+
+Description:
+Admin can log in by entering Email and Password. Credentials are stored permanently in the database to allow secure authentication.
+
+<img width="1920" height="444" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/5dd9ac50-a1ff-4052-83bf-a7dedc8e3902" />
+
+## 🔹 11. Admin (Dashboard)
+
+Description:
+Main control panel for the admin to manage users  Add Future Matches, View Future Matches, Add Match History,and History Matches List Advertisement perform Edit or Delete actions.
+
+<img width="1920" height="864" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/e0aef4e3-d456-43e1-b91d-22a939b12fb0" />
+
+
+
 
 
 ## 📌 Conclusion
