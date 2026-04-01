@@ -93,7 +93,7 @@ Advertisements – Display ads for additional content and revenue.
 
 -----
 
-## Project Structure
+##  📂 Project Structure
 <pre>
 AdminControl
 ├── WebPages                # HTML, JSP, CSS, JS files
