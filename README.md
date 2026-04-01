@@ -44,3 +44,39 @@ To build a web application using Servlet and JSP.
 
 ----
 
+## 👥 System Modules
+<pre>
+1. Audience Module
+View Live Cricket Score (without login)
+User Registration
+User Login
+View Match Highlights
+View Match History
+View Future Matches
+Forgot Password (Email Reset)
+  
+2. Admin Module
+Admin Login
+Add Future Match Details
+Edit Match Details
+Delete Match Details
+Manage Match History
+Manage Highlights
+
+</pre>
+
+-----
+
+## 🔐 Features
+<pre>
+Live Score API Integration
+User Registration & Login
+Admin Panel
+Match History
+Future Match Schedule
+Highlights Details
+Email Password Reset
+Future Matches show 
+Secure Login System
+
+</pre>
