@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title> Admin control</title>
+<style>
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #141e30; 
+}
+
+.box {
+    width: 360px;
+    padding: 30px;
+    background: rgba(255,255,255,0.15);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    margin-top: 0;
+    letter-spacing: 1px;
+}
+
+input[type=email] {
+    width: 100%;
+    padding: 10px;
+    margin: 12px 0;
+    border: none;
+    border-radius: 6px;
+    outline: none;
+}
+
+input[type=email]:focus {
+    box-shadow: 0 0 8px #667eea;
+}
+
+input[type=submit] {
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(120deg, #667eea, #764ba2);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+/*input[type=submit]:hover {
+    transform: scale(1.05);
+}*/
+
+a {
+    display: inline-block;
+    margin-top: 12px;
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    border: 1px solid white;
+    padding: 6px 12px;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+a:hover {
+    background: white;
+    color: #243b55;
+}
+</style>
+</head>
+<body>
+
+<div class="box">
+    <h2>Admin Control </h2>
+
+    <form action="SendMail" method="post">
+        <input type="email" name="email" placeholder="Enter Email iD" required>
+        <input type="submit" value="Send Reset Link">
+    </form>
+
+    <a href="index.html">Back to Login</a>
+</div>
+
+</body>
+</html>
