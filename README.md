@@ -78,12 +78,13 @@ Highlights Details
 Email Password Reset
 Future Matches show 
 Secure Login System
-
 </pre>
+
+-----
 
 ## 📸 Screenshots
 
-##🔹 1. Home Page (Audience Login)
+## 🔹 1. Home Page (Audience Login)
 
 Description:
 
