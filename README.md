@@ -97,42 +97,42 @@ and reset their password using the forgot password option.
 Description:
 New users can create an account by entering their Name, Email, Mobile, Password and  Confirm Password.
 
-<img width="1920" height="869" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/e990bdde-c485-4129-932f-b5a6e444444d" />
+<img width="1920" height="444" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/e990bdde-c485-4129-932f-b5a6e444444d" />
 
 
 ## 🔹 3. Audience Login 
 Description:
 After registration, the audience can log in by entering their email and password 
 
-<img width="1920" height="868" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/d4ca40f4-b379-4f04-a296-590d4191e3f4" />
+<img width="1920" height="444" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/d4ca40f4-b379-4f04-a296-590d4191e3f4" />
 
 
 ## 🔹 4. Advertisement Page
 Description:
 After login, an advertisement page is displayed before accessing the user dashboard.
 
-<img width="1891" height="875" alt="Screenshot (479)" src="https://github.com/user-attachments/assets/f2484e9e-4883-4ff1-a4f5-3e11163e0e4d" />
+<img width="1891" height="444" alt="Screenshot (479)" src="https://github.com/user-attachments/assets/f2484e9e-4883-4ff1-a4f5-3e11163e0e4d" />
 
 
 ## 🔹 5. Dashboard (Audience page)
 Description:
 The Dashboard provides options such as Home, Upcoming Matches, Match History, Profile, and Logout for the users.
 
-<img width="1920" height="876" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/ea0e6f92-921a-40c7-8128-0d16f39e77d0" />
+<img width="1920" height="444" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/ea0e6f92-921a-40c7-8128-0d16f39e77d0" />
 
 
 ## 🔹 6. Profile Page
 Description:
 The Profile Page displays user details such as Name, Email, and Mobile Number, and provides options to Edit, Delete, Home, and Logout.
 
-<img width="1920" height="875" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/650d595a-4181-41a0-8164-dd6272195c43" />
+<img width="1920" height="444" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/650d595a-4181-41a0-8164-dd6272195c43" />
 
 
 ## 🔹 7. Upcoming Matches
 Description:
 The Upcoming Matches page shows the list of upcoming matches and their details for the users.
 
-<img width="1920" height="887" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/48e32574-d033-4fd3-b360-2ec9bb4674b7" />
+<img width="1920" height="444" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/48e32574-d033-4fd3-b360-2ec9bb4674b7" />
 
 
 🔹 8. Admin Dashboard
