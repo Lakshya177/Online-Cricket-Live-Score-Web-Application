@@ -90,7 +90,7 @@ Description:
 The Home Page allows users to log in using email and password, view live scores, register a new account, 
 and reset their password using the forgot password option.
 
-<img width="1920" height="444" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/9a698947-055a-430f-9bd4-ea14d010a82b" />
+<img width="1500" height="444" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/9a698947-055a-430f-9bd4-ea14d010a82b" />
 
 
 ## 🔹 2. User Registration Page
@@ -136,14 +136,12 @@ The Upcoming Matches page shows the list of upcoming matches and their details f
 
 
 ## 🔹 8. History of Matches
-
 Description:
 The History of Matches page displays the details and highlights of previously played matches.
 
 <img width="1920" height="444" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/9f8a08c4-ecb6-43d8-b5a1-f84c83159793" />
 
 ## 🔹 9. Forget Password
-
 Description:
 Users can reset their password using an email link by entering Email, Password, and Confirm Password.
 
@@ -151,14 +149,12 @@ Users can reset their password using an email link by entering Email, Password, 
 <img width="1895" height="444" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/0fffb7d0-3f50-46b8-bc89-0c0237125a2c" />
 
 ## 🔹 10. Live Score
-
 Description:
 The Live Score page displays real-time cricket scores and match details using the Live Cricket API.
 
 <img width="1887" height="444" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/560ef54e-fcbb-4546-9e76-89134b289e18" />
 
 ## 🔹 10. Admin Login 
-
 Description:
 Admin can log in by entering Email and Password. Credentials are stored permanently in the database to allow secure authentication.
 
