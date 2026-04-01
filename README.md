@@ -136,19 +136,21 @@ The Upcoming Matches page shows the list of upcoming matches and their details f
 
 
 ## 🔹 8. History of Matches
-<pre>
+
 Description:
 The History of Matches page displays the details and highlights of previously played matches.
-<pre>
+
 <img width="1920" height="444" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/9f8a08c4-ecb6-43d8-b5a1-f84c83159793" />
-</pre>
 
-👉 (Insert Screenshot Here)
-
-🔹 9. Add Match Page (Admin)
+## 🔹 9. Forget Password
 
 Description:
-Admin adds new match details such as teams, date, and highlights.
+Users can reset their password using an email link by entering Email, Password, and Confirm Password.
+
+<img width="1920" height="444" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/bf55b515-05a4-45a3-b006-a594b4885178" />
+<img width="1895" height="444" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/0fffb7d0-3f50-46b8-bc89-0c0237125a2c" />
+
+
 
 👉 (Insert Screenshot Here)
 
