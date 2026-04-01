@@ -1,147 +1,62 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Audience Login</title>
-        <meta charset="UTF-8">
+<head>
+    <title>Admin Control</title>
+    <meta charset="UTF-8">
+    <style>
+        /* Full screen background */
+        html,body {
+            height: 100vh; 
+            margin: 0; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            font-family: 'Segoe UI', Arial, sans-serif; 
+        }
 
-        <style>
-            body {
-                height: 100vh;
-                margin: 0;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                font-family: 'Segoe UI', Arial, sans-serif;
+        /* Overlay */
+        body::before {
+            content: "";
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(120deg, rgba(0, 32, 63, 0.8), rgba(0, 128, 0, 0.7));
+            z-index: 0;
+        }
 
-                background-image: url("image/Background1.jpg");
-                background-size: cover;
-                background-position: center;
-                background-repeat: no-repeat;
-            }
+        /* Card for admin link */
+        .admin-card {
+            position: relative;
+            z-index: 1; /* above overlay */
+            padding: 40px 60px;
+            
+           
+        }
 
-            /* Overlay without animation */
-            body::before{
-                content:"";
-                position:absolute;
-                width:100%;
-                height:100%;
-                background: linear-gradient(120deg, rgba(0, 32, 63, 0.8), rgba(0, 128, 0, 0.7));
-            }
+        .admin-card a {
+            display: inline-block;
+            padding: 15px 35px;
+            font-size: 15px;
+            font-weight: bold;
+            text-decoration: none;
+            color: white;
+            border-radius: 30px;
+            background: linear-gradient(135deg, #ff416c, #ff4b2b);
+            transition: all 0.3s ease;
+        }
 
-            .login-box {
-                position: relative;
-                width: 360px;
-                padding: 35px;
-                border-radius: 20px;
-                background: rgba(255, 255, 255, 0.15);
-                backdrop-filter: blur(10px);
-                box-shadow: 0 8px 25px rgba(0,0,0,0.2);
-                text-align: center;
-                border: 1px solid rgba(255,255,255,0.3);
-            }
+        .admin-card a:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 15px rgba(255, 75, 43, 0.7);
+        }
+    </style>
+</head>
+<body>
 
-            .login-box h2 {
-                margin-bottom: 25px;
-                color: white;
-                letter-spacing: 1px;
-            }
+    <div class="admin-card">
+        <a href="Admin.html">Admin Control</a>
+    </div>
 
-            .row {
-                margin-bottom: 18px;
-            }
-
-            .row input {
-                width: 100%;
-                padding: 12px;
-                border: none;
-                border-radius: 25px;
-                font-size: 14px;
-                background: rgba(255,255,255,0.9);
-                box-shadow: inset 0 2px 5px rgba(0,0,0,0.1);
-            }
-
-            .row input:focus {
-                outline: none;
-                background: white;
-                box-shadow: 0 0 8px rgba(255,255,255,0.6);
-            }
-
-            .actions {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                gap: 15px;
-                margin-top: 12px;
-            }
-
-            input[type="submit"] {
-                background: linear-gradient(135deg, #ff416c, #ff4b2b);
-                color: white;
-                border: none;
-                padding: 10px 22px;
-                border-radius: 25px;
-                cursor: pointer;
-                font-size: 14px;
-            }
-
-            input[type="submit"]:hover {
-                opacity: 0.9;
-            }
-
-            a {
-                font-size: 14px;
-                text-decoration: none;
-                color: #f1f1f1;
-            }
-
-            a:hover {
-                text-decoration: underline;
-            }
-
-            .links, .admin-link {
-                margin-top: 15px;
-            }
-
-            .live-score {
-                display: block;
-                margin: 12px 0;
-                font-weight: bold;
-                color: #ffe600;
-            }
-
-        </style>
-    </head>
-
-    <body>
-
-        <form action="CheckLogin" method="post" class="login-box">
-
-            <h2>Audience Login</h2>
-
-            <div class="row">
-                <input type="email" name="mail" placeholder="Enter Email" required>
-            </div>
-
-            <div class="row">
-                <input type="password" name="pwd" placeholder="Enter Password" required>
-            </div>
-
-            <div class="actions">
-                <input type="submit" value="Login">
-                <a href="forget.html">Forgot Password?</a>
-            </div>
-
-            <a href="LiveScoreServlet" class="live-score">Live Score</a>
-
-            <div class="links">
-                <a href="register.html">Click Here For Registration</a>
-            </div>
-
-            <!--            <div class="admin-link">
-                            <a href="admin_login.jsp"><b>Login as Admin</b></a>
-                        </div>-->
-
-        </form>
-
-    </body>
+</body>
 </html>
