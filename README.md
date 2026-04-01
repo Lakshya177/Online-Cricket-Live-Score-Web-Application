@@ -135,10 +135,12 @@ The Upcoming Matches page shows the list of upcoming matches and their details f
 <img width="1920" height="444" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/48e32574-d033-4fd3-b360-2ec9bb4674b7" />
 
 
-🔹 8. Admin Dashboard
-
+## 🔹 8. History of Matches
 Description:
-Admin can add, update, and delete match details.
+The History of Matches page displays the details and highlights of previously played matches.
+<pre>
+<img width="1920" height="444" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/9f8a08c4-ecb6-43d8-b5a1-f84c83159793" />
+</pre>
 
 👉 (Insert Screenshot Here)
 
