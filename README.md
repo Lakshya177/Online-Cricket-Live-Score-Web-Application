@@ -100,12 +100,12 @@ New users can create an account by entering their Name, Email, Mobile, Password 
 <img width="1920" height="869" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/e990bdde-c485-4129-932f-b5a6e444444d" />
 
 
-🔹 3. User Login Page
+🔹 3. Audience Login 
 
 Description:
-Registered users can log in to access match highlights, history, and future matches.
+After registration, the audience can log in by entering their email and password 
+<img width="935" height="539" alt="Screenshot (478)" src="https://github.com/user-attachments/assets/5d4b7552-c725-41b7-aac3-7ee9772cb88f" />
 
-👉 (Insert Screenshot Here)
 
 🔹 4. Dashboard (After Login)
 
