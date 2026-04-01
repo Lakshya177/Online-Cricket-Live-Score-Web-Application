@@ -103,17 +103,16 @@ AdminControl
 │       └── index.html
 │
 ├── Source Packages            # Java source files
-│    └── <default Package>     # or your named package
+│    └── Default Package       # or your named package
 │          ├── Mailer.java
 │          └── SendMail.java
 │
-├── Test Package             # Test package      
-├── Libraries                # Project libraries
-├── Test-libraries           # Libraries for testing
-└── Configuration-files      # Extra config files
+├── Test Package                 # Test package      
+├── Libraries                    # Project libraries
+├── Test-libraries               # Libraries for testing
+└── Configuration-files          # Extra config files
+    ├── MANIFEST.MF
     ├── context.xml
-    ├── context.xml
-    ├── web-fragment.xml
     └── web-fragment.xml
 </pre>
 
