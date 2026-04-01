@@ -90,7 +90,7 @@ Description:
 The Home Page allows users to log in using email and password, view live scores, register a new account, 
 and reset their password using the forgot password option.
 
-<img width="1500" height="444" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/9a698947-055a-430f-9bd4-ea14d010a82b" />
+<img width="1920" height="400" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/9a698947-055a-430f-9bd4-ea14d010a82b" />
 
 
 ## 🔹 2. User Registration Page
