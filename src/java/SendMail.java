@@ -15,10 +15,10 @@ public class SendMail extends HttpServlet {
         response.setContentType("text/html;charset=UTF-8");
         PrintWriter out = response.getWriter();
         try {
-            String email = request.getParameter("mail");
-            String msg = "Click for reset password below\n\n"
-                    + "http://localhost:8080/Cricket/UpdatePassword?mailll=" + email;
-            String sub = "Password Reset Link for project name";
+            String email = request.getParameter("email");
+            String msg = "Click Admin panel\n\n"
+                    + "http://localhost:8080/Cricket/admin_login.jsp?mailll=" + email;
+            String sub = "Admin conntrol";
 
             Mailer.send(email, sub, msg);
 
