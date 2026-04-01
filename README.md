@@ -87,7 +87,6 @@ Secure Login System
 ## 🔹 1. Home Page (Audience Login)
 
 Description:
-
 The Home Page allows users to log in using email and password, view live scores, register a new account, 
 and reset their password using the forgot password option.
 
@@ -122,17 +121,19 @@ The Dashboard provides options such as Home, Upcoming Matches, Match History, Pr
 <img width="1920" height="876" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/ea0e6f92-921a-40c7-8128-0d16f39e77d0" />
 
 
-🔹 6. Future Matches Page
-
+## 🔹 6. Profile Page
 Description:
-Shows upcoming matches. Past date matches are not displayed.
+The Profile Page displays user details such as Name, Email, and Mobile Number, and provides options to Edit, Delete, Home, and Logout.
 
-  🔹 7. Admin Login Page
+<img width="1920" height="875" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/650d595a-4181-41a0-8164-dd6272195c43" />
 
+
+## 🔹 7. Upcoming Matches
 Description:
-Admin logs in to manage match data.
+The Upcoming Matches page shows the list of upcoming matches and their details for the users.
 
-👉 (Insert Screenshot Here)
+<img width="1920" height="887" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/48e32574-d033-4fd3-b360-2ec9bb4674b7" />
+
 
 🔹 8. Admin Dashboard
 
