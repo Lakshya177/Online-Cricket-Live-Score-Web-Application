@@ -117,8 +117,9 @@ Form cannot submit if passwords do not match.
 ----
 
 ##  📂 Project Structure
+
+## AdminControl
 <pre>
-AdminControl
 ├── WebPages                
 |   ├─ META-INF             
 |   └── WEB-INF             
@@ -139,8 +140,8 @@ AdminControl
     └── web-fragment.xml
 </pre>
 
+## Audience Page
 <pre>
-Audience Page
  ├── WebPages
  │        ├──JavaScript
  │        |     └──one.js
