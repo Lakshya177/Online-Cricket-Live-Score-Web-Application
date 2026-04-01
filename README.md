@@ -150,9 +150,13 @@ Users can reset their password using an email link by entering Email, Password, 
 <img width="1920" height="444" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/bf55b515-05a4-45a3-b006-a594b4885178" />
 <img width="1895" height="444" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/0fffb7d0-3f50-46b8-bc89-0c0237125a2c" />
 
+## 🔹 10. Live Score
 
+Description:
+The Live Score page displays real-time cricket scores and match details using the Live Cricket API.
 
-👉 (Insert Screenshot Here)
+<img width="1887" height="866" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/560ef54e-fcbb-4546-9e76-89134b289e18" />
+
 
 ## 📌 Conclusion
 <pre>
