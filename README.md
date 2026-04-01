@@ -110,9 +110,10 @@ After registration, the audience can log in by entering their email and password
 🔹 4. Dashboard (After Login)
 
 Description:
-After login, users can access all features like highlights, history, and future matches.
+After login, an advertisement page is displayed before accessing the user dashboard.
 
-👉 (Insert Screenshot Here)
+<img width="1891" height="875" alt="Screenshot (479)" src="https://github.com/user-attachments/assets/f2484e9e-4883-4ff1-a4f5-3e11163e0e4d" />
+
 
   🔹 5. Match History Page
 
