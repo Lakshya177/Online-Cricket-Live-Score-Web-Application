@@ -93,6 +93,29 @@ Advertisements – Display ads for additional content and revenue.
 
 -----
 
+## 📌 Validation Rules
+<pre>
+  
+1️⃣ Mobile Number Rules
+Must be exactly 10 digits.
+First digit must be 6, 7, 8, or 9.
+Only numbers (0–9) are allowed.
+Cannot be empty (required field).
+Example valid: 9876543210
+Example invalid: 5876543210, 1234567890, 987654321
+
+2️⃣ Password Rules
+Password field cannot be empty.
+Confirm password field cannot be empty.
+Password and confirm password must match.
+
+3️⃣ Form Submission Rules
+Form cannot submit if mobile number is invalid.
+Form cannot submit if passwords do not match.
+</pre>
+
+----
+
 ##  📂 Project Structure
 <pre>
 AdminControl
