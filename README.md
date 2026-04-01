@@ -232,14 +232,15 @@ Form cannot submit if passwords do not match.
 Description:
 The Home Page allows users to log in using email and password, view live scores, register a new account, 
 and reset their password using the forgot password option.
-<pre>
+
 <img width="1920" height="400" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/9a698947-055a-430f-9bd4-ea14d010a82b" />
-</pre>  ## 🔹 2. User Registration Page
+
+## 🔹 2. User Registration Page
 Description:
 New users can create an account by entering their Name, Email, Mobile, Password and  Confirm Password.
-<pre>
+
 <img width="1920" height="444" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/e990bdde-c485-4129-932f-b5a6e444444d" />
-</pre>
+
 
 ## 🔹 3. Audience Login 
 Description:
