@@ -80,3 +80,68 @@ Future Matches show
 Secure Login System
 
 </pre>
+
+## 📸 Screenshots
+<pre>
+🔹 1. Home Page (Live Score Page)
+
+Description:
+This page displays live cricket scores using the API. Users can view match scores without logging in.
+
+👉 (Insert Screenshot Here)
+
+🔹 2. User Registration Page
+
+Description:
+New users can create an account by entering their name, email, and password.
+
+👉 (Insert Screenshot Here)
+
+🔹 3. User Login Page
+
+Description:
+Registered users can log in to access match highlights, history, and future matches.
+
+👉 (Insert Screenshot Here)
+
+🔹 4. Dashboard (After Login)
+
+Description:
+After login, users can access all features like highlights, history, and future matches.
+
+👉 (Insert Screenshot Here)
+
+  🔹 5. Match History Page
+
+Description:
+Displays details of previously played matches along with highlights.
+
+👉 (Insert Screenshot Here)
+
+🔹 6. Future Matches Page
+
+Description:
+Shows upcoming matches. Past date matches are not displayed.
+
+  🔹 7. Admin Login Page
+
+Description:
+Admin logs in to manage match data.
+
+👉 (Insert Screenshot Here)
+
+🔹 8. Admin Dashboard
+
+Description:
+Admin can add, update, and delete match details.
+
+👉 (Insert Screenshot Here)
+
+🔹 9. Add Match Page (Admin)
+
+Description:
+Admin adds new match details such as teams, date, and highlights.
+
+👉 (Insert Screenshot Here)
+
+</pre>
