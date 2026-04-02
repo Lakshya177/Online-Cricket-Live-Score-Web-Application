@@ -26,14 +26,14 @@ Advertisements displayed on the dashboard for users.
 
 ## 🎯 Objectives
 <pre>
-To provide live cricket scores using an API.
-To allow users to view match highlights and match history.
-To provide future match schedules.
-To implement a user registration and login system.
-To implement an admin panel for managing match data.
-To implement an email feature for password reset.
-To display Advertisements within the application.
-To build a web application using Servlets and JSP.
+-To provide live cricket scores using an API.
+-To allow users to view match highlights and match history.
+-To provide future match schedules.
+-To implement a user registration and login system.
+-To implement an admin panel for managing match data.
+-To implement an email feature for password reset.
+-To display Advertisements within the application.
+-To build a web application using Servlets and JSP.
 </pre>
 
 -----
@@ -56,39 +56,39 @@ To build a web application using Servlets and JSP.
 ## 👥 System Modules
 <pre>
 1. Audience Module
-View Live Cricket Score (without login)
-User Registration
-User Login
-View Match Highlights
-View Match History
-View Future Matches
-Forgot Password (Email Reset)
-View Advertisements
+-View Live Cricket Score (without login)
+-User Registration
+-User Login
+-View Match Highlights
+-Match History
+-View Future Matches
+-Forgot Password (Email Reset)
+-View Advertisements
   
 2. Admin Module
-Admin Login
-Add Future Match Details
-Edit Match Details
-Delete Match Details
-Manage Match History
-Manage Highlights
-Manage Advertisements
+-Admin Login
+-Add Future Match Details
+-Edit Match Details
+-Delete Match Details
+-Manage Match History
+-Manage Highlights
+-Manage Advertisements
 </pre>
 
 -----
 
 ## 🔐 Features
 <pre>
-Live Score API Integration – View real-time cricket scores.
-User Registration & Login – Secure authentication for users.
-Admin Panel – Manage matches, highlights, and advertisements.
-Match History – Access past match details and statistics.
-Future Match Schedule – View upcoming matches.
-Highlights Details – Watch match highlights.
-Email Password Reset – Recover account securely via email.
-Future Matches Display – Show upcoming matches on the dashboard.
-Secure Login System – Protect user and admin accounts.
-Advertisements – Display ads for additional content and revenue.
+-Live Score API Integration – View real-time cricket scores.
+-User Registration & Login – Secure authentication for users.
+-Admin Panel – Manage matches, highlights, and advertisements.
+-Match History – Access past match details and statistics.
+-Future Match Schedule – View upcoming matches.
+-Highlights Details – Watch match highlights.
+-Email Password Reset – Recover account securely via email.
+-Future Matches Display – Show upcoming matches on the dashboard.
+-Secure Login System – Protect user and admin accounts.
+-Advertisements – Display ads for additional content and revenue.
 </pre>
 
 -----
@@ -97,21 +97,21 @@ Advertisements – Display ads for additional content and revenue.
 <pre>
   
 1️⃣ Mobile Number Rules
-Must be exactly 10 digits.
-First digit must be 6, 7, 8, or 9.
-Only numbers (0–9) are allowed.
-Cannot be empty (required field).
-Example valid: 9876543210
-Example invalid: 5876543210, 1234567890, 987654321
+-Must be exactly 10 digits.
+-First digit must be 6, 7, 8, or 9.
+-Only numbers (0–9) are allowed.
+-Cannot be empty (required field).
+-Example valid: 9876543210
+-Example invalid: 5876543210, 1234567890, 987654321
 
 2️⃣ Password Rules
-Password field cannot be empty.
-Confirm password field cannot be empty.
-Password and confirm password must match.
+-Password field cannot be empty.
+-Confirm password field cannot be empty.
+-Password and confirm password must match.
 
 3️⃣ Form Submission Rules
-Form cannot submit if mobile number is invalid.
-Form cannot submit if passwords do not match.
+-Form cannot submit if mobile number is invalid.
+-Form cannot submit if passwords do not match.
 </pre>
 
 ----
