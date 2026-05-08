@@ -307,7 +307,7 @@ Admin can log in by entering Email and Password. Credentials are stored permanen
 Description:
 Main control panel for the admin to manage users  Add Future Matches, View Future Matches, Add Match History,and History Matches List and Advertisement perform Edit or Delete actions.
 
-<img width="1920" height="800" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/e0aef4e3-d456-43e1-b91d-22a939b12fb0" />
+<img width="1920" height="1000" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/e0aef4e3-d456-43e1-b91d-22a939b12fb0" />
 
 a) Add Future Matches
 
