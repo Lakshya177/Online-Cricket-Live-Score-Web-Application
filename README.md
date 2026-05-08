@@ -300,14 +300,14 @@ The Live Score page displays real-time cricket scores and match details using th
 Description:
 Admin can log in by entering Email and Password. Credentials are stored permanently in the database to allow secure authentication.
 
-<img width="1920" height="444" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/5dd9ac50-a1ff-4052-83bf-a7dedc8e3902" />
+<img width="1920" height="800" alt="Screenshot (488)" src="https://github.com/user-attachments/assets/5dd9ac50-a1ff-4052-83bf-a7dedc8e3902" />
 
 ## 🔹 11. Admin (Dashboard)
 
 Description:
 Main control panel for the admin to manage users  Add Future Matches, View Future Matches, Add Match History,and History Matches List and Advertisement perform Edit or Delete actions.
 
-<img width="1920" height="1000" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/e0aef4e3-d456-43e1-b91d-22a939b12fb0" />
+<img width="1920" height="800" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/e0aef4e3-d456-43e1-b91d-22a939b12fb0" />
 
 a) Add Future Matches
 
