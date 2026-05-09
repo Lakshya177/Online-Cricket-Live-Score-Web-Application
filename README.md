@@ -40,17 +40,17 @@ Advertisements displayed on the dashboard for users.
 
 ## 🛠️ Technologies Used
 <pre>
-+----------------+--------------------------------+
-| Category        | Technology                    |
-|-----------------|-------------------------------|
-| 🎨 Frontend    | HTML, CSS, JavaScript          |
-| ⚙️ Backend     | Java Servlet, JSP              |
-| 🗄️ Database    | MySQL                          |
-| 🔗 Connectivity| JDBC                           |
-| 🌐 API         | Live Cricket Score API         |
-| 📧 Email       | JavaMail API                   |
-| 🚀 Server      | Apache Tomcat                  |     
-+----------------+---------------------------------+ 
++-----------------+----------------------------------+
+| Category        | Technology                       |
++-----------------+----------------------------------+
+| 🎨 Frontend     | HTML, CSS, JavaScript            |
+| ⚙️ Backend      | Java Servlet, JSP                |
+| 🗄️ Database     | MySQL                            |
+| 🔗 Connectivity | JDBC                             |
+| 🌐 API          | Live Cricket Score API           |
+| 📧 Email        | JavaMail API                     |
+| 🚀 Server       | Apache Tomcat                    |
++-----------------+----------------------------------+
 </pre>
 
 ----
